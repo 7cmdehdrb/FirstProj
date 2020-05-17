@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "FirstProj",
+    "name": "Weather",
     "slug": "FirstProj",
     "platforms": [
       "ios",
@@ -23,6 +23,10 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "android": {
+      "package": "com.soyu.Weather"
+    },
+    "description": "Weather App with React-Native & Rest API"
   }
 }
